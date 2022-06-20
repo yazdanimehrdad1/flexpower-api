@@ -3,9 +3,13 @@ Python or NodeJS Backend Challenge
 Task:
 _________________
 •	Build a RESTful api that services requests for sprocket factory data and sprockets.
+
 •	The app should be built using either Python or NodeJS.
+
 •	For data retention, a database or cache can be used.
+
 •	Ideally, use docker/docker-compose for standing up the datastore.
+
 •	The code should be on a github repository that should be shared with your engineering contact.
 
 Requirements:
