@@ -3,6 +3,7 @@ const mongoose = require('mongoose');
 
 //connect to mongodb 
 module.exports = (URI)=>{
+    console.log("hellooo->",URI)
     mongoose.connect(URI, {
         useNewUrlParser: true,
         useUnifiedTopology: true,

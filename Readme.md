@@ -38,7 +38,7 @@ o   (extra) An endpoint that delete sprockets with a given id (completed)
 Run Instruction:
 _________________
 1- Input local variable in .env file as follows. The .env file is in server folder
-    MONGODB_URL = mongodb+srv://username:mongodbpassword@cluster0.jhp4e.mongodb.net/?retryWrites=true&w=majority
+    MONGODB_URL = mongodb+srv://username:mongodbpassword@cluster0.6qsq2.mongodb.net/?retryWrites=true&w=majority
     DB_NAME= factory
     PORT=8000
 
