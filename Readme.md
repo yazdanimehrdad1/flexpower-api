@@ -15,6 +15,7 @@ _________________
 Requirements:
 _________________
 •	RESTful Endpoints
+
 o   (extra) An endpoint that create new factory data (completed)
 
 o	An endpoint that returns all sprocket factory data (completed)
@@ -40,7 +41,9 @@ _________________
     MONGODB_URL = mongodb+srv://username:mongodbpassword@cluster0.jhp4e.mongodb.net/?retryWrites=true&w=majority
     DB_NAME= factory
     PORT=8000
+
 2- Move to the server directory : cd server 
+
 3- Run server : nmp start 
 
 The code is to fulfill the requirements of the assignment described above. 
@@ -51,8 +54,11 @@ Potential improvements:
 _______________________
 
 1- Depending on the real-world application the data model could be much more complicated. Therefore, defining an  apollo server could be beneficial. In addition, API query languages such as graphQL could be used to manage the api depending on the data models. RESTful api seemed to be fine for the scope of this project.
-2- The api calls for this project was minimal, however serverless functions could be considered for enterprise level api design. 
+
+2- The api calls for this project was minimal, however serverless functions could be considered for enterprise level api design.
+
 3- It is preferred to use TypeScript for back-end development to avoid runtime issues and type checking for an enterprise level application.
+
 4- Perform unit test case for api calls
 
 
