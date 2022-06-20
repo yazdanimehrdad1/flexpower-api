@@ -12,12 +12,19 @@ Requirements:
 _________________
 •	RESTful Endpoints
 o   (extra) An endpoint that create new factory data (completed)
+
 o	An endpoint that returns all sprocket factory data (completed)
+
 o	An endpoint that returns factory data for a given factory id (completed)
+
 o	An endpoint that returns sprockets for a given id (completed)
+
 o	An endpoint that will create new sprocket (completed)
+
 o	An endpoint that will update sprocket for a given id (completed)
+
 o   (extra) An endpoint that returns all sprockets (completed)
+
 o   (extra) An endpoint that delete sprockets with a given id (completed)
    -  Seed data/examples of the factory and sprocket are in the attached JSON files
    -  Include a README with instructions on how to stand up the database and application
